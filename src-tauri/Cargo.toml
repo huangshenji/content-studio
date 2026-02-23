@@ -51,3 +51,6 @@ anyhow = "1.0"
 
 # Async traits
 async-trait = "0.1"
+
+# Regex for HTML processing
+regex = "1.10"
